@@ -42,8 +42,8 @@
                                     <p class="help-block text-danger"></p>
                                 </div>
                             </div>
-
-                            <div class="g-recaptcha" data-sitekey="6LdAlOQZAAAAAMMjofrQ0CzAv5zsFzr0-Egy1b2F" data-callback="recaptcha_callback"></div>
+                            <!-- borre mi key de captcha, pero se puede colocar cualquiera -->
+                            <div class="g-recaptcha" data-sitekey="#" data-callback="recaptcha_callback"></div>
                             
                             <br />
                             <div id="success"></div>
